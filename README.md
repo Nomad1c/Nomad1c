@@ -23,7 +23,7 @@ I'm currently in the process of learning my way around GitHub. Excited to contri
 ## Connect with Me 🌐
 
 - [LinkedIn](https://www.linkedin.com/in/svetlin-dimitrov/) 💼
-- [sv.dimitrov@protonmail.com](mailto:sv.dimitrov@protonmail.com) 📧
+- [svеtlin-dimitrov@outlook.com](mailto:svеtlin-dimitrov@outlook.com) 📧
 
 ## Projects 🛠️
 
