@@ -1,6 +1,6 @@
 # Welcome to Nomad1c's GitHub Repository! 🚀
 
-![Nomad1c's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nomad1c&show_icons=true&theme=radical) https://camo.githubusercontent.com/497887b5b16bba4983258142707e8315e9b5b2d123c56dca8a9dd3139a57884b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d416e69323030323038266c61796f75743d636f6d70616374267468656d653d7261646963616c
+![Nomad1c's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nomad1c&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nomad1c&layout=compact&theme=radical)
 
 ## About Me 🧑‍💻
 
