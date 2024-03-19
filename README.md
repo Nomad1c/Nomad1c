@@ -1,6 +1,6 @@
 # Welcome to Nomad1c's GitHub Repository! 🚀
 
-![Nomad1c's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nomad1c&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nomad1c&layout=compact&theme=radical)
+![Nomad1c's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nomad1c&show_icons=true&theme=radical&include_all_commits=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nomad1c&layout=compact&theme=radical)
 
 ## About Me 🧑‍💻
 
